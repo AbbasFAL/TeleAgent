@@ -2,8 +2,8 @@
 
 رباتی قدرتمند به زبان فارسی و انگلیسی
 
-# By @XHACKERX
-# our channel : @TeleAgent_Team
+# By @AbbasFAL
+# our channel : @FAL_TEAM
 
 # Open source Soon...
 
