@@ -1,9 +1,1 @@
-# TeleAgent
-
-رباتی قدرتمند به زبان فارسی و انگلیسی
-
-# By @AbbasFAL
-# our channel : @FAL_TEAM
-
-# Open source Soon...by AbbasFAL 
-
+غلط  کردم خوب شد من سورس ایجنت ندارم
